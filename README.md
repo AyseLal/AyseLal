@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AyseLal
+- 👋 Hi, I’m Hande.
 - 👀 I’m interested in coding and visual art. 
 - 🌱 I’m currently learning anything new.
 - 💞️ I’m looking to collaborate on AI and machine learning tools and new coding methods. 
